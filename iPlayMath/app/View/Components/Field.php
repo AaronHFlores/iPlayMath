@@ -11,7 +11,7 @@ class Field extends Component
      *
      * @return void
      */
-    public function __construct()
+    public function __construct( string $name, string $type = 'text', string $help = null)
     {
         //
     }
