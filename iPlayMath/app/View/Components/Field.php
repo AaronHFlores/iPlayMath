@@ -7,13 +7,22 @@ use Illuminate\View\Component;
 class Field extends Component
 {
     /**
+    private $name;
+    private $type;
+    private $help;
+     */
+
+    /**
      * Create a new component instance.
-     *
+     *  $name,  $type,$help
      * @return void
      */
-    public function __construct( string $name, string $type = 'text', string $help = null)
+    public function __construct()
     {
-        //
+        /**
+        $this->name = $name;
+        $this->type = $type;
+        $this->help = $help; */
     }
 
     /**
@@ -23,6 +32,5 @@ class Field extends Component
      */
     public function render()
     {
-        return view('components.field');
     }
 }

@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f96e26b8-bdf0-45e8-99d3-51c5fca76bf3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/iPlayMath/app/View/Components/Field.php" beforeDir="false" afterPath="$PROJECT_DIR$/iPlayMath/app/View/Components/Field.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPlayMath/resources/views/components/field.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/iPlayMath/resources/views/components/field.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPlayMath/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/iPlayMath/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -38,6 +41,7 @@
       <updated>1646628684762</updated>
       <workItem from="1646628689952" duration="557000" />
       <workItem from="1646629301444" duration="248000" />
+      <workItem from="1646706366622" duration="39000" />
     </task>
     <servers />
   </component>
