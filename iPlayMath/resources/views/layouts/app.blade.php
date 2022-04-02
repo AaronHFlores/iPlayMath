@@ -25,7 +25,7 @@
             <div class="container">
                 <!-- Home  {{ config('app.name', 'iPlayMath') }} -->
                 <a class="navbar-brand" href="{{ url('/') }}">                    
-                    <img src="">
+                    <img src="https://i.ibb.co/pRvdzJw/logo.png">
                 </a>
                 <!-- Nav Bar -->
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
